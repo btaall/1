@@ -25,6 +25,13 @@
       "activated": "2025-08-17",
       "expires": "2025-08-18",
       "privateKey": "B7T0-MENU-N7QS-3680"
+    },
+    {
+      "id": "4913785731918059614",
+      "client": "768830527024267264",
+      "activated": "2025-08-17",
+      "expires": "2025-08-24",
+      "privateKey": "B7T0-MENU-P3HV-5072"
     }
   ]
 }
